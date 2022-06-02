@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import { PreviewRates } from '../components/PreviewRates';
 import { Rates } from '../components/Rates';
 
